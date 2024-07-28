@@ -1,0 +1,146 @@
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecreatefrompng(): 'images/mbbank.png' is not a valid PNG file in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 17
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecreatefrompng($filename = 'images/mbbank.png') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:17
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 48
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:48
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1700, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'FT2273201130') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:48
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagesx($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1700, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'FT2273201130') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:48
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = -386, $y = 1700, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'FT2273201130') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 49
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:49
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1605, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Trong MB') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:49
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagesx($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1605, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Trong MB') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:49
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = -301, $y = 1605, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Trong MB') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 50
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:50
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1515, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = '17:43:45, 02/12/2023') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:50
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagesx($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1515, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = '17:43:45, 02/12/2023') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:50
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = -531, $y = 1515, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Regular.otf', $text = '17:43:45, 02/12/2023') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 51
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:51
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1378, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'VU VAN KIEN chuyen khoan') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:51
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagesx($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1378, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'VU VAN KIEN chuyen khoan') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:51
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = -724, $y = 1378, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'VU VAN KIEN chuyen khoan') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 52
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:52
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1220, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Kiên Hacker') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:52
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagesx($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1220, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Kiên Hacker') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:52
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = -351, $y = 1220, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Kiên Hacker') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 53
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:53
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1280, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '207888') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:53
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagesx($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:27
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canlephai($image = FALSE, $fontsize = 37, $y = 1280, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '207888') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:53
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = -244, $y = 1280, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '207888') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:28
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 54
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 255, $green = 255, $blue = 255) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:54
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 40
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canchinhgiua($image = FALSE, $fontsize = 75, $y = 455, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '90,000,000 VND') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:54
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagesx($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:40
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 42
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canchinhgiua($image = FALSE, $fontsize = 75, $y = 455, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '90,000,000 VND') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:54
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 75, $angle = 0, $x = -394.5, $y = 455, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '90,000,000 VND') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:42
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 55
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:55
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 33
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canletrai($image = FALSE, $fontsize = 37, $y = 910, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Bold.otf', $text = 'VU VAN KIEN') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:55
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = 220, $y = 910, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Bold.otf', $text = 'VU VAN KIEN') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:33
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 56
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:56
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 33
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canletrai($image = FALSE, $fontsize = 37, $y = 970, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = '12345678') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:56
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = 220, $y = 970, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Regular.otf', $text = '12345678') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:33
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 57
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 0, $green = 0, $blue = 0) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:57
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 33
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canletrai($image = FALSE, $fontsize = 37, $y = 1030, $textColor = NULL, $font = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Ngân hàng TMCP Quân đội') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:57
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 37, $angle = 0, $x = 220, $y = 1030, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Regular.otf', $text = 'Ngân hàng TMCP Quân đội') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:33
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 58
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagecolorallocate($im = FALSE, $red = 255, $green = 255, $blue = 255) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:58
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 46
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. canbentren($image = FALSE, $x = 57, $y = 83, $color = NULL, $fontPath = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '17:43', $fontSize = 34) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:58
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   3. imagettftext($im = FALSE, $size = 34, $angle = 0, $x = 57, $y = 83, $col = NULL, $font_file = 'font//AvertaStd/AvertaStd-Bold.otf', $text = '17:43') /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:46
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagejpeg() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 62
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagejpeg($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:62
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php on line 66
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP Stack trace:
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   1. {main}() /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:0
+[02-Dec-2023 17:44:25 Asia/Ho_Chi_Minh] PHP   2. imagedestroy($im = FALSE) /home/vuvankie/fakebill.vuvankien.com/ajax/mb-bank.php:66
